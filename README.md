@@ -40,7 +40,7 @@ prolog/
 
 Install **SWI-Prolog** to run these programs:
 
-- 🌐 Official Website: [https://www.swi-prolog.org](https://www.swi-prolog.org)
+- 🌐 Official Website: [SWI-Prolog](https://www.swi-prolog.org)
 - Available for Windows, macOS, and Linux
 - Free and open-source
 
